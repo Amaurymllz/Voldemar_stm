@@ -1,4 +1,5 @@
 This repository is used to publish our app linked to the project 'Voldemar'. This project is made for a frensh engineering contest in 2024 called 'les Olympiades de Sciences de l'ingénieur' made by high school students. 
+The students are Léa ROGER-LIM, Soren SAMAMA, Haris MESSAOUDI and Amaury MALLEZ. 
 
 # The project
 Our projet is a model of the Boeing-Bell v-22 osprey, which mean that he can take off vertically and then fligh like a plane. This specifity allow it to fligh for a long time, and still take off easily anywhere, without any need of human action.
